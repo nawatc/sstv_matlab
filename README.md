@@ -20,6 +20,6 @@ line * column ของ mode (มากกว่า pixel แนวนอน * p
 4.	สามารถ Save file ได้โดยการกดปุ่ม Export sound as wav file เพื่อ save file
 
 
-#การทำงานของโปรแกรม
+# การทำงานของโปรแกรม
 	โปรแกรม MATLAB ที่เขียนเป็นโปรแกรม Graphical Interface เพื่อใช้งานโปรแกรมอื่นๆ เพื่อให้ง่ายต่อการใช้งานแทน Command Line Interface
 	โดยโปรแกรมที่ถูกเรียกใช้มีชื่อว่า pysstv เป็นโปรแกรมเพื่อแปลงไฟล์ภาพ .PNG ไปเป็นสัญญาณเสียง SSTV ที่เป็นไฟล์ .WAV โดยโปรแกรม pysstv เป็น library หนึ่งของ Python Link [https://pypi.org/project/PySSTV/] ที่ถูกทำให้เป็นไฟล์ exe และสามารถถูกเรียกใช้ผ่าน Command line ได้โดยใช้โปรแกรม py2exe เพื่อแปลงไฟล์เป็น exe
